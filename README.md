@@ -1,7 +1,7 @@
 ### Hi there, I'm Nolfi 👋
 
 ## I'm a Developer And Student!
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on a [VS Code][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -44,7 +44,7 @@
 [website]: https://nolfi-hosting.dk
 [youtube]: https://www.youtube.com/channel/UC5Kwkfsqa63HAfwyNBvmJLg?view_as=subscriber
 [discord]: https://pastebin.com/raw/B9QVPTuu
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[webdevplaylist]: https://pastebin.com/raw/B9QVPTuu
+[jsplaylist]: https://pastebin.com/raw/B9QVPTuu
+[cssplaylist]: https://pastebin.com/raw/B9QVPTuu
+[reactplaylist]: https://pastebin.com/raw/B9QVPTuu
