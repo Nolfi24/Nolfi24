@@ -11,7 +11,7 @@
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/68621653/89790215-e45e2400-db21-11ea-978a-f94ea874ff59.png" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/68621653/89790215-e45e2400-db21-11ea-978a-f94ea874ff59.png" />][discord]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -45,7 +45,7 @@
 [website]: https://nolfi-hosting.dk
 [youtube]: https://www.youtube.com/channel/UC5Kwkfsqa63HAfwyNBvmJLg?view_as=subscriber
 [instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[discord]: https://pastebin.com/raw/B9QVPTuu
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
