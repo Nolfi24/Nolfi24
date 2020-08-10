@@ -40,7 +40,7 @@
 
 ---
 
-<img align="left" alt="Nolfi's Github Stats" src="https://github-readme-stats.nolfi24.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="Nolfi's Github Stats" src="https://github-readme-stats.nolfi24.vercel.app/api?username=Nolfi24&show_icons=true&hide_border=true" />
 
 [website]: https://nolfi-hosting.dk
 [youtube]: https://www.youtube.com/channel/UC5Kwkfsqa63HAfwyNBvmJLg?view_as=subscriber
