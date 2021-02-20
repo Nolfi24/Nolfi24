@@ -2,9 +2,9 @@
 
 ## I'm a Developer And Student!
 - 🔭 I’m currently working on a **Lua Project**!
-- 🌱 I’m currently learning python 🤣
-- 👯 I’m looking to collaborate with other Coders/Scripters
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning **Python** 🤣
+- 👯 I’m looking to collaborate with other **Coders/Scripters**
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to talk with new purple
 
 ### Connect with me:
