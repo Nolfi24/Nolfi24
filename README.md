@@ -1,7 +1,7 @@
 ### Hi there, I'm Nolfi 👋
 
 ## I'm a Developer And Student!
-- 🔭 I’m currently working on a [VS Code][website]!
+- 🔭 I’m currently working on a Lua Project!
 - 🌱 I’m currently learning python 🤣
 - 👯 I’m looking to collaborate with other Coders/Scripters
 - 🥅 2020 Goals: Contribute more to Open Source projects
