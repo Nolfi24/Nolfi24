@@ -35,8 +35,6 @@
 
 ---
 
-<!-- <img align="left" alt="Nolfi's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Nolfi24&show_icons=true&hide_border=true" /> -->
-
 [website]: https://nolfi.dev
 [youtube]: https://www.youtube.com/channel/UC5Kwkfsqa63HAfwyNBvmJLg?view_as=subscriber
 [discord]: https://pastebin.com/raw/B9QVPTuu
