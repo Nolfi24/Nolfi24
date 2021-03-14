@@ -1,14 +1,12 @@
 ### Hi there, I'm Nolfi 👋
 
 ## I'm a Developer!
-```
 - 🔭 I’m currently working on a **Lua Project**!
 - 🌱 I’m currently learning **Python** 🤣
 - 👯 I’m looking to collaborate with other **Coders/Scripters**
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to talk with new purple
 - 💡 Ideas: You got some good Project ideas contact me on Discord Nolfi#1989
-```
 
 ### Connect with me:
 
