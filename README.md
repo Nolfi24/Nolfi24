@@ -36,14 +36,6 @@
 ---
 [<img align="center" alt="nolfi.dev" width="100%" src="https://media.discordapp.net/attachments/687327963800403986/819539011886383114/nolfi-dev-logo.png" />][website]
 
-<br />
-<br />
-
----
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Nolfi24&theme=tokyonight"><img align="right" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nolfi24&theme=tokyonight&hide=batchfile">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nolfi24&theme=tokyonight">
-
 
 [website]: https://nolfi.dev
 [youtube]: https://www.youtube.com/channel/UC5Kwkfsqa63HAfwyNBvmJLg?view_as=subscriber
