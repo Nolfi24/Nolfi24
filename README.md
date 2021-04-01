@@ -40,11 +40,9 @@
 <br />
 
 ---
-<details>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Nolfi24&theme=tokyonight"><img align="right" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nolfi24&theme=tokyonight&hide=batchfile">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nolfi24&theme=tokyonight">
-</details>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Nolfi24&theme=tokyonight"><img align="right" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nolfi24&theme=tokyonight&hide=batchfile">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nolfi24&theme=tokyonight">
 
 
 [website]: https://nolfi.dev
