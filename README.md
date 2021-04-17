@@ -9,6 +9,7 @@
 ---
 ### Connect with me:
 
+---
 [<img align="left" alt="Website" width="22px" src="https://cdn0.iconfinder.com/data/icons/universe-and-cosmos/96/universe_color-01-512.png" />][website]
 [<img align="left" alt="Discord" width="22px" src="https://cdn2.iconfinder.com/data/icons/gaming-platforms-squircle/250/discord_squircle-512.png" />][discord]
 
