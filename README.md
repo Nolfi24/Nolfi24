@@ -9,10 +9,9 @@
 ---
 ### Connect with me:
 
----
 [<img align="left" alt="Website" width="22px" src="https://cdn0.iconfinder.com/data/icons/universe-and-cosmos/96/universe_color-01-512.png" />][website]
 [<img align="left" alt="Discord" width="22px" src="https://cdn2.iconfinder.com/data/icons/gaming-platforms-squircle/250/discord_squircle-512.png" />][discord]
-
+---
 <br />
 
 ### Languages and Tools:
@@ -28,7 +27,7 @@
 [<img align="left" alt="LUA" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" />][website]
 [<img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png" />][website]
 [<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />][website]
-
+---
 
 <br />
 <br />
