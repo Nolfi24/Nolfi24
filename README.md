@@ -13,7 +13,6 @@
 [<img align="left" alt="Discord" width="22px" src="https://cdn2.iconfinder.com/data/icons/gaming-platforms-squircle/250/discord_squircle-512.png" />][discord]
 
 <br />
----
 
 ### Languages and Tools:
 
