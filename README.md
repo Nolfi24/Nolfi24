@@ -1,6 +1,6 @@
 ### I'm Nolfi And I'm a Developer!
 ---
-- 🔭 I’m currently working on a **Lua Project**!
+- 🔭 I’m currently working on a **PHP Project**!
 - 🌱 I’m currently learning **Python** 🤣
 - 👯 I’m looking to collaborate with other **Coders/Scripters**
 - 🥅 2021 Goals: Contribute more to Open Source projects
