@@ -38,4 +38,4 @@
 
 [website]: https://nolfi.dev
 [youtube]: https://www.youtube.com/channel/UC5Kwkfsqa63HAfwyNBvmJLg?view_as=subscriber
-[discord]: https://pastebin.com/raw/B9QVPTuu
+[discord]: https://discord.gg/xrZjqbkqyG
