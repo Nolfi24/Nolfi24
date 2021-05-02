@@ -36,6 +36,12 @@
 
 ---
 
+---
+[<img align="left" alt="nolfi.dev" width="100%" src="https://github-readme-stats.vercel.app/api?username=nolfi24&show_icons=true&hide_border=true" />][website]
+[<img align="right" alt="nolfi.dev" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nolfi24" />][website]
+
+---
+
 [website]: https://nolfi.dev
 [youtube]: https://www.youtube.com/channel/UC5Kwkfsqa63HAfwyNBvmJLg?view_as=subscriber
 [discord]: https://discord.gg/xrZjqbkqyG
