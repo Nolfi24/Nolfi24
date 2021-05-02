@@ -37,8 +37,8 @@
 ---
 
 ---
-[<img align="left" alt="nolfi.dev" width="100%" src="https://github-readme-stats.vercel.app/api?username=nolfi24&show_icons=true&hide_border=true" />][website]
-[<img align="right" alt="nolfi.dev" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nolfi24" />][website]
+[<img align="left" alt="nolfi.dev" src="https://github-readme-stats.vercel.app/api?username=nolfi24&show_icons=true&hide_border=true" />][website]
+[<img align="right" alt="nolfi.dev" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nolfi24" />][website]
 
 ---
 
