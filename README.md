@@ -26,7 +26,7 @@
 <br />
 
 ---
-[<img align="center" alt="nolfi.dev" width="100%" src="https://cdn.discordapp.com/attachments/687327963800403986/890682571829149726/logo-text.png" />][website]
+[<img align="center" alt="nolfi.dev" width="100%" src="https://cdn.discordapp.com/attachments/687327963800403986/890683329316282379/logo-text.png" />][website]
 
 ---
 ### My GitHub Stats
