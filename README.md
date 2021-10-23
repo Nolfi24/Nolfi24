@@ -47,6 +47,7 @@
 ### OS:
 
 [<img align="left" alt="windows" src="https://img.shields.io/static/v1?label=&message=Windows%2010&color=191919&style=for-the-badge&logo=Windows" />][website]
+[<img align="left" alt="linux" src="https://img.shields.io/static/v1?label=&message=Linux&color=191919&style=for-the-badge&logo=Linux&logoColor=white" />][website]
 
 <br />
 <br />
