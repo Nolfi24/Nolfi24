@@ -15,7 +15,6 @@
 [<img align="left" alt="Website" src="https://img.shields.io/static/v1?label=&message=Website&color=191919&style=for-the-badge&logo=Acclaim" />][website]
 
 <br />
-<br />
 
 ---
 
@@ -28,7 +27,6 @@
 [<img align="left" alt="C++" src="https://img.shields.io/static/v1?label=&message=C%2B%2B&color=191919&style=for-the-badge&logo=Cplusplus&logoColor=00599C" />][website]
 
 <br />
-<br />
 
 ---
 
@@ -40,7 +38,6 @@
 [<img align="left" alt="Terminal" src="https://img.shields.io/static/v1?label=&message=Terminal&color=191919&style=for-the-badge&logo=Windows%20Terminal" />][website]
 
 <br />
-<br />
 
 ---
 
@@ -49,7 +46,6 @@
 [<img align="left" alt="windows" src="https://img.shields.io/static/v1?label=&message=Windows%2010&color=191919&style=for-the-badge&logo=Windows" />][website]
 [<img align="left" alt="linux" src="https://img.shields.io/static/v1?label=&message=Linux&color=191919&style=for-the-badge&logo=Linux&logoColor=white" />][website]
 
-<br />
 <br />
 
 ---
