@@ -29,7 +29,7 @@
 
 ### Tools:
 
-[<img align="left" alt="Visual Studio Code" src="https://img.shields.io/static/v1?label=&message=VISUAL%20STUDIO%20CODE&color=191919&style=for-the-badge&logo=Visual%20Studio%20Code" />][website]
+[<img align="left" alt="Visual Studio Code" src="https://img.shields.io/static/v1?label=&message=VISUAL%20STUDIO%20CODE&color=191919&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC" />][website]
 <br />
 <br />
 
