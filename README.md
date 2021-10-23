@@ -6,10 +6,6 @@
 - 2021 Goals: Contribute more to Open Source projects
 - Fun fact: I love to talk with new purple
 - Ideas: You got some good Project ideas contact me on Discord Nolfi#1989
-
-<br />
-<br />
-
 ---
 
 ### Contact me:
