@@ -1,8 +1,8 @@
 ### I'm Nolfi And I'm a Developer!
 ---
-- <img alt="cwork" src="https://img.shields.io/static/v1?label=&message=Im%20currently%20working%20on%20a%20PHP%20Project!&color=191919&style=for-the-badge"/>
-- <img alt="clearn" src="https://img.shields.io/static/v1?label=&message=Im%20currently%20learning%20Objective-C&color=191919&style=for-the-badge"/>
-- I’m looking to collaborate with other **Coders/Scripters**
+- [<img alt="cwork" src="https://img.shields.io/static/v1?label=&message=Im%20currently%20working%20on%20a%20PHP%20Project!&color=191919&style=for-the-badge" />][website]
+- [<img alt="clearn" src="https://img.shields.io/static/v1?label=&message=Im%20currently%20learning%20Objective-C&color=191919&style=for-the-badge"/>][website]
+- [<img alt="lto" src="https://img.shields.io/static/v1?label=&message=Im%20looking%20to%20collaborate%20with%20other%20Coders-Scripters&color=191919&style=for-the-badge"/>][website]
 - 2021 Goals: Contribute more to Open Source projects
 - Fun fact: I love to talk with new purple
 - Ideas: You got some good Project ideas contact me on Discord Nolfi#1989
