@@ -24,8 +24,7 @@
 [<img align="left" alt="CSS3" src="https://img.shields.io/static/v1?label=&message=CSS3&color=191919&style=for-the-badge&logo=css3&logoColor=1572B6" />][website]
 [<img align="left" alt="JavaScript" src="https://img.shields.io/static/v1?label=&message=JavaScript&color=191919&style=for-the-badge&logo=javascript&logoColor=F7DF1E" />][website]
 [<img align="left" alt="LUA" src="https://img.shields.io/static/v1?label=&message=Lua&color=191919&style=for-the-badge&logo=lua&logoColor=2C2D72" />][website]
-[<img align="left" alt="C#" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png" />][website]
-[<img align="left" alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />][website]
+[<img align="left" alt="C++" src="https://img.shields.io/static/v1?label=&message=C++&color=191919&style=for-the-badge&logo=Cplusplus&logoColor=00599C" />][website]
 
 <br />
 <br />
@@ -38,7 +37,6 @@
 [<img align="left" alt="MySQL" src="https://img.shields.io/static/v1?label=&message=MySQL&color=191919&style=for-the-badge&logo=MySQL" />][website]
 [<img align="left" alt="Node.js" src="https://img.shields.io/static/v1?label=&message=Node.js&color=191919&style=for-the-badge&logo=node.js" />][website]
 [<img align="left" alt="Terminal" src="https://img.shields.io/static/v1?label=&message=Terminal&color=191919&style=for-the-badge&logo=Windows%20Terminal" />][website]
-Windows Terminal
 <br />
 <br />
 
@@ -52,6 +50,7 @@ Windows Terminal
 
 
 [website]: https://nolfi.dev
+[github]: https://github.com/nolfi24
 [youtube]: https://www.youtube.com/channel/UC5Kwkfsqa63HAfwyNBvmJLg?view_as=subscriber
 [discord]: https://discord.gg/xrZjqbkqyG
 [discordprof]: https://discord.com/users/299218114879422465
