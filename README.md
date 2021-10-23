@@ -11,7 +11,7 @@
 ### Contact me:
 
 [<img align="left" alt="Discord" src="https://img.shields.io/static/v1?label=&message=DISCORD&color=191919&style=for-the-badge&logo=discord" />][discordprof]
-[<img align="left" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
+[<img align="left" alt="GitHub" src="https://img.shields.io/static/v1?label=&message=github&color=191919&style=for-the-badge&logo=github" />][website]
 
 <br />
 <br />
