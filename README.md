@@ -19,8 +19,8 @@
 
 ### Languages:
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
+[<img align="left" alt="HTML5" width="26px" src="https://img.shields.io/static/v1?label=&message=HTML5&color=191919&style=for-the-badge&logo=html5&logoColor=E34F26" />][website]
+[<img align="left" alt="CSS3" width="26px" src="https://img.shields.io/static/v1?label=&message=CSS3&color=191919&style=for-the-badge&logo=css3&logoColor=1572B6" />][website]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
 [<img align="left" alt="MySQL" width="26px" src="https://i0.wp.com/www.elearningworld.org/wp-content/uploads/2019/04/MySQL.svg.png" />][website]
