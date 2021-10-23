@@ -38,6 +38,16 @@
 [<img align="left" alt="MySQL" src="https://img.shields.io/static/v1?label=&message=MySQL&color=191919&style=for-the-badge&logo=MySQL&logoColor=4479A1" />][website]
 [<img align="left" alt="Node.js" src="https://img.shields.io/static/v1?label=&message=Node.js&color=191919&style=for-the-badge&logo=node.js" />][website]
 [<img align="left" alt="Terminal" src="https://img.shields.io/static/v1?label=&message=Terminal&color=191919&style=for-the-badge&logo=Windows%20Terminal" />][website]
+
+<br />
+<br />
+
+---
+
+### OS:
+
+[<img align="left" alt="windows" src="https://img.shields.io/static/v1?label=&message=Windows%2010&color=191919&style=for-the-badge&logo=Windows" />][website]
+
 <br />
 <br />
 
