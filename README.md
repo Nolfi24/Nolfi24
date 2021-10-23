@@ -24,7 +24,7 @@
 [<img align="left" alt="CSS3" src="https://img.shields.io/static/v1?label=&message=CSS3&color=191919&style=for-the-badge&logo=css3&logoColor=1572B6" />][website]
 [<img align="left" alt="JavaScript" src="https://img.shields.io/static/v1?label=&message=JavaScript&color=191919&style=for-the-badge&logo=javascript&logoColor=F7DF1E" />][website]
 [<img align="left" alt="LUA" src="https://img.shields.io/static/v1?label=&message=Lua&color=191919&style=for-the-badge&logo=lua&logoColor=2C2D72" />][website]
-[<img align="left" alt="C++" src="https://img.shields.io/static/v1?label=&message=C++&color=191919&style=for-the-badge&logo=Cplusplus&logoColor=00599C" />][website]
+[<img align="left" alt="C++" src="https://img.shields.io/static/v1?label=&message=C%2B%2B&color=191919&style=for-the-badge&logo=Cplusplus&logoColor=00599C" />][website]
 
 <br />
 <br />
