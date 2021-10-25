@@ -21,8 +21,8 @@
 
 ### Languages:
 
-[<img alt="HTML5" src="https://img.shields.io/static/v1?label=&message=HTML5&color=191919&style=for-the-badge&logo=html5&logoColor=E34F26" />][website]
-[<img alt="CSS3" src="https://img.shields.io/static/v1?label=&message=CSS3&color=191919&style=for-the-badge&logo=css3&logoColor=1572B6" />][website]
+[<img align="left" alt="HTML5" src="https://img.shields.io/static/v1?label=&message=HTML5&color=191919&style=for-the-badge&logo=html5&logoColor=E34F26" />][website]
+[<img align="left" alt="CSS3" src="https://img.shields.io/static/v1?label=&message=CSS3&color=191919&style=for-the-badge&logo=css3&logoColor=1572B6" />][website]
 [<img align="left" alt="JavaScript" src="https://img.shields.io/static/v1?label=&message=JavaScript&color=191919&style=for-the-badge&logo=javascript&logoColor=F7DF1E" />][website]
 [<img align="left" alt="Python" src="https://img.shields.io/static/v1?label=&message=Python&color=191919&style=for-the-badge&logo=Python" />][website]
 [<img align="left" alt="LUA" src="https://img.shields.io/static/v1?label=&message=Lua&color=191919&style=for-the-badge&logo=lua&logoColor=2C2D72" />][website]
