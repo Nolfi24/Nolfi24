@@ -36,6 +36,7 @@
 ### Tools:
 
 [<img align="left" alt="Visual Studio Code" src="https://img.shields.io/static/v1?label=&message=VISUAL%20STUDIO%20CODE&color=191919&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC" />][website]
+[<img align="left" alt="Visual Studio 2019" src="https://img.shields.io/static/v1?label=&message=VISUAL%20STUDIO%20CODE&color=191919&style=for-the-badge&logo=Visual%20Studio&logoColor=5C2D91" />][website]
 [<img align="left" alt="MySQL" src="https://img.shields.io/static/v1?label=&message=MySQL&color=191919&style=for-the-badge&logo=MySQL&logoColor=4479A1" />][website]
 [<img align="left" alt="Node.js" src="https://img.shields.io/static/v1?label=&message=Node.js&color=191919&style=for-the-badge&logo=node.js" />][website]
 [<img align="left" alt="Terminal" src="https://img.shields.io/static/v1?label=&message=Terminal&color=191919&style=for-the-badge&logo=Windows%20Terminal" />][website]
