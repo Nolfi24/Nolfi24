@@ -28,6 +28,7 @@
 [<img align="left" alt="Python" src="https://img.shields.io/static/v1?label=&message=Python&color=191919&style=for-the-badge&logo=Python" />][website]
 [<img align="left" alt="LUA" src="https://img.shields.io/static/v1?label=&message=Lua&color=191919&style=for-the-badge&logo=lua&logoColor=2C2D72" />][website]
 [<img align="left" alt="C++" src="https://img.shields.io/static/v1?label=&message=C%2B%2B&color=191919&style=for-the-badge&logo=Cplusplus&logoColor=00599C" />][website]
+[<img align="left" alt="Go Lang" src="https://img.shields.io/static/v1?label=&message=Go%20Lang&color=191919&style=for-the-badge&logo=go&logoColor=64c8c8" />][website]
 
 <br />
 
