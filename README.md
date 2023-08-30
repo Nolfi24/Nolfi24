@@ -21,14 +21,14 @@
 
 ### Languages:
 
-[<img align="left" alt="HTML5" src="https://img.shields.io/static/v1?label=&message=HTML5&color=191919&style=for-the-badge&logo=html5&logoColor=E34F26" />][website]
-[<img align="left" alt="PHP" src="https://img.shields.io/static/v1?label=&message=PHP&color=191919&style=for-the-badge&logo=php&logoColor=#777BB4" />][website]
-[<img align="left" alt="CSS3" src="https://img.shields.io/static/v1?label=&message=CSS3&color=191919&style=for-the-badge&logo=css3&logoColor=1572B6" />][website]
-[<img align="left" alt="JavaScript" src="https://img.shields.io/static/v1?label=&message=JavaScript&color=191919&style=for-the-badge&logo=javascript&logoColor=F7DF1E" />][website]
-[<img align="left" alt="Python" src="https://img.shields.io/static/v1?label=&message=Python&color=191919&style=for-the-badge&logo=Python" />][website]
-[<img align="left" alt="LUA" src="https://img.shields.io/static/v1?label=&message=Lua&color=191919&style=for-the-badge&logo=lua&logoColor=2C2D72" />][website]
-[<img align="left" alt="C++" src="https://img.shields.io/static/v1?label=&message=C%2B%2B&color=191919&style=for-the-badge&logo=Cplusplus&logoColor=00599C" />][website]
-[<img align="left" alt="Go Lang" src="https://img.shields.io/static/v1?label=&message=Go%20Lang&color=191919&style=for-the-badge&logo=go&logoColor=64c8c8" />][website]
+[<img alt="HTML5" src="https://img.shields.io/static/v1?label=&message=HTML5&color=191919&style=for-the-badge&logo=html5&logoColor=E34F26" />][website]
+[<img alt="PHP" src="https://img.shields.io/static/v1?label=&message=PHP&color=191919&style=for-the-badge&logo=php&logoColor=#777BB4" />][website]
+[<img alt="CSS3" src="https://img.shields.io/static/v1?label=&message=CSS3&color=191919&style=for-the-badge&logo=css3&logoColor=1572B6" />][website]
+[<img alt="JavaScript" src="https://img.shields.io/static/v1?label=&message=JavaScript&color=191919&style=for-the-badge&logo=javascript&logoColor=F7DF1E" />][website]
+[<img alt="Python" src="https://img.shields.io/static/v1?label=&message=Python&color=191919&style=for-the-badge&logo=Python" />][website]
+[<img alt="LUA" src="https://img.shields.io/static/v1?label=&message=Lua&color=191919&style=for-the-badge&logo=lua&logoColor=2C2D72" />][website]
+[<img alt="C++" src="https://img.shields.io/static/v1?label=&message=C%2B%2B&color=191919&style=for-the-badge&logo=Cplusplus&logoColor=00599C" />][website]
+[<img alt="Go Lang" src="https://img.shields.io/static/v1?label=&message=Go%20Lang&color=191919&style=for-the-badge&logo=go&logoColor=64c8c8" />][website]
 
 <br />
 
