@@ -30,17 +30,15 @@
 [<img alt="C++" src="https://img.shields.io/static/v1?label=&message=C%2B%2B&color=191919&style=for-the-badge&logo=Cplusplus&logoColor=00599C" />][website]
 [<img alt="Go Lang" src="https://img.shields.io/static/v1?label=&message=Go%20Lang&color=191919&style=for-the-badge&logo=go&logoColor=64c8c8" />][website]
 
-<br />
-
 ---
 
 ### Tools:
 
-[<img align="left" alt="Visual Studio Code" src="https://img.shields.io/static/v1?label=&message=VISUAL%20STUDIO%20CODE&color=191919&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC" />][website]
-[<img align="left" alt="Visual Studio 2019" src="https://img.shields.io/static/v1?label=&message=VISUAL%20STUDIO%202019&color=191919&style=for-the-badge&logo=Visual%20Studio&logoColor=5C2D91" />][website]
-[<img align="left" alt="MySQL" src="https://img.shields.io/static/v1?label=&message=MySQL&color=191919&style=for-the-badge&logo=MySQL&logoColor=4479A1" />][website]
-[<img align="left" alt="Node.js" src="https://img.shields.io/static/v1?label=&message=Node.js&color=191919&style=for-the-badge&logo=node.js" />][website]
-[<img align="left" alt="Terminal" src="https://img.shields.io/static/v1?label=&message=Terminal&color=191919&style=for-the-badge&logo=Windows%20Terminal" />][website]
+[<img alt="Visual Studio Code" src="https://img.shields.io/static/v1?label=&message=VISUAL%20STUDIO%20CODE&color=191919&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC" />][website]
+[<img alt="Visual Studio 2019" src="https://img.shields.io/static/v1?label=&message=VISUAL%20STUDIO%202019&color=191919&style=for-the-badge&logo=Visual%20Studio&logoColor=5C2D91" />][website]
+[<img alt="MySQL" src="https://img.shields.io/static/v1?label=&message=MySQL&color=191919&style=for-the-badge&logo=MySQL&logoColor=4479A1" />][website]
+[<img alt="Node.js" src="https://img.shields.io/static/v1?label=&message=Node.js&color=191919&style=for-the-badge&logo=node.js" />][website]
+[<img alt="Terminal" src="https://img.shields.io/static/v1?label=&message=Terminal&color=191919&style=for-the-badge&logo=Windows%20Terminal" />][website]
 
 <br />
 
