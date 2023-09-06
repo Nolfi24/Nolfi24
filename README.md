@@ -29,6 +29,7 @@
 [<img alt="PHP" src="https://img.shields.io/static/v1?label=&message=PHP&color=191919&style=for-the-badge&logo=php&logoColor=#777BB4" />][website]
 [<img alt="CSS3" src="https://img.shields.io/static/v1?label=&message=CSS3&color=191919&style=for-the-badge&logo=css3&logoColor=1572B6" />][website]
 [<img alt="JavaScript" src="https://img.shields.io/static/v1?label=&message=JavaScript&color=191919&style=for-the-badge&logo=javascript&logoColor=F7DF1E" />][website]
+[<img alt="TypeScript" src="https://img.shields.io/static/v1?label=&message=TypeScript&color=191919&style=for-the-badge&logo=typescript&logoColor=3178C6" />][website]
 [<img alt="Python" src="https://img.shields.io/static/v1?label=&message=Python&color=191919&style=for-the-badge&logo=Python" />][website]
 [<img alt="LUA" src="https://img.shields.io/static/v1?label=&message=Lua&color=191919&style=for-the-badge&logo=lua&logoColor=2C2D72" />][website]
 [<img alt="C++" src="https://img.shields.io/static/v1?label=&message=C%2B%2B&color=191919&style=for-the-badge&logo=Cplusplus&logoColor=00599C" />][website]
