@@ -3,6 +3,7 @@
 -->
 ### Hi there 👋
 
+<!--
 ---
 - [<img alt="cwork" src="https://img.shields.io/static/v1?label=&message=Im%20currently%20working%20on%20a%20PHP%20Project!&color=191919&style=for-the-badge" />][website]
 - [<img alt="clearn" src="https://img.shields.io/static/v1?label=&message=Im%20currently%20learning%20Objective-C&color=191919&style=for-the-badge"/>][website]
@@ -11,7 +12,9 @@
 - [<img alt="ffact" src="https://img.shields.io/static/v1?label=&message=Fun%20fact:%20I%20love%20to%20talk%20with%20new%20people&color=191919&style=for-the-badge"/>][website]
 - [<img alt="ideas" src="https://img.shields.io/static/v1?label=&message=Ideas:%20You%20got%20some%20good%20Project%20ideas%20contact%20me%20on%20Discord&color=191919&style=for-the-badge"/>][website]
 ---
+-->
 
+---
 ### Contact me:
 
 [<img alt="Discord" src="https://img.shields.io/static/v1?label=&message=DISCORD&color=191919&style=for-the-badge&logo=discord" />][discordprof]
