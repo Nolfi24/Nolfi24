@@ -1,4 +1,7 @@
+<!--
 [<img align="center" alt="banner" src="github-banner.png" />][website]
+-->
+# Hi there 👋
 
 ---
 - [<img alt="cwork" src="https://img.shields.io/static/v1?label=&message=Im%20currently%20working%20on%20a%20PHP%20Project!&color=191919&style=for-the-badge" />][website]
@@ -47,7 +50,7 @@
 
 ---
 ### My GitHub Stats:
-[<img align="left" width="60%" alt="nolfi.dev" src="https://github-readme-stats.vercel.app/api?username=nolfi24&show_icons=true&theme=transparent&hide_border=true" />][website]
+[<img align="left" width="60%" alt="nolfi.dev" src="https://github-readme-stats.vercel.app/api?username=nolfi24&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />][website]
 [<img align="right" width="35%" alt="nolfi.dev" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nolfi24&theme=transparent&hide_border=true" />][website]
 
 
