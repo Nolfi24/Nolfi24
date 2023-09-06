@@ -1,7 +1,7 @@
 <!--
 [<img align="center" alt="banner" src="github-banner.png" />][website]
 -->
-# Hi there 👋
+## Hi there 👋
 
 ---
 - [<img alt="cwork" src="https://img.shields.io/static/v1?label=&message=Im%20currently%20working%20on%20a%20PHP%20Project!&color=191919&style=for-the-badge" />][website]
