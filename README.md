@@ -49,8 +49,8 @@
 
 ### OS:
 
-[<img alt="windows" src="https://img.shields.io/static/v1?label=&message=Windows%2010&color=191919&style=for-the-badge&logo=Windows" />][website]
-[<img alt="linux" src="https://img.shields.io/static/v1?label=&message=Linux&color=191919&style=for-the-badge&logo=Linux&logoColor=white" />][website]
+[<img alt="windows" src="https://img.shields.io/static/v1?label=&message=Windows%2010&color=191919&style=for-the-badge&logo=windows10&logoColor=0078D6" />][website]
+[<img alt="linux" src="https://img.shields.io/static/v1?label=&message=Linux&color=191919&style=for-the-badge&logo=Linux&logoColor=FCC624" />][website]
 
 ---
 ### My GitHub Stats:
