@@ -50,7 +50,11 @@
 ### OS:
 
 [<img alt="windows" src="https://img.shields.io/static/v1?label=&message=Windows%2010&color=191919&style=for-the-badge&logo=windows10&logoColor=0078D6" />][website]
+[<img alt="ubuntu" src="https://img.shields.io/static/v1?label=&message=Ubuntu&color=191919&style=for-the-badge&logo=ubuntu&logoColor=E95420" />][website]
+[<img alt="kalilinux" src="https://img.shields.io/static/v1?label=&message=Kali%20Linux&color=191919&style=for-the-badge&logo=kalilinux&logoColor=557C94" />][website]
+<!--
 [<img alt="linux" src="https://img.shields.io/static/v1?label=&message=Linux&color=191919&style=for-the-badge&logo=Linux&logoColor=FCC624" />][website]
+-->
 
 ---
 ### My GitHub Stats:
