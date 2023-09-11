@@ -63,7 +63,7 @@
 ---
 ### My GitHub Stats:
 [<img align="left" width="60%" alt="nolfi.dev" src="https://github-readme-stats.vercel.app/api?username=nolfi24&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" />][website]
-[<img align="right" width="35%" alt="nolfi.dev" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nolfi24&theme=transparent&hide_border=true&layout=donut" />][website]
+[<img align="right" width="35%" alt="nolfi.dev" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nolfi24&theme=transparent&hide_border=true&layout=compact" />][website]
 
 
 [website]: https://nolfi.dev
