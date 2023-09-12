@@ -46,6 +46,7 @@
 [<img alt="Visual Studio 2019" src="https://img.shields.io/static/v1?label=&message=VISUAL%20STUDIO%202019&color=191919&style=for-the-badge&logo=Visual%20Studio&logoColor=5C2D91" />][website]
 [<img alt="MySQL" src="https://img.shields.io/static/v1?label=&message=MySQL&color=191919&style=for-the-badge&logo=MySQL&logoColor=4479A1" />][website]
 [<img alt="Node.js" src="https://img.shields.io/static/v1?label=&message=Node.js&color=191919&style=for-the-badge&logo=node.js&logoColor=339933" />][website]
+[<img alt="Bun" src="https://img.shields.io/static/v1?label=&message=Bun&color=191919&style=for-the-badge&logo=bun&logoColor=#000000" />][website]
 [<img alt="Git" src="https://img.shields.io/static/v1?label=&message=Git&color=191919&style=for-the-badge&logo=git&logoColor=F05032" />][website]
 [<img alt="Terminal" src="https://img.shields.io/static/v1?label=&message=Terminal&color=191919&style=for-the-badge&logo=Windows%20Terminal" />][website]
 
