@@ -2,10 +2,9 @@
 [<img align="center" alt="banner" src="github-banner.png" />][website]
 -->
 <p>
-  <img align="right" src="https://komarev.com/ghpvc/?username=Nolfi24&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
+  <h3>Hi there 👋</h3>
+  <img height="25" src="https://komarev.com/ghpvc/?username=Nolfi24&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
 </p>
-
-### Hi there 👋
 
 ---
 <!--
