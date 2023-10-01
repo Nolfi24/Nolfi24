@@ -1,8 +1,11 @@
 <!--
 [<img align="center" alt="banner" src="github-banner.png" />][website]
 -->
-# Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
+[<img alt="Profile views" src="https://komarev.com/ghpvc/?username=Nolfi24&label=Profile%20views&color=0e75b6&style=for-the-badge" />][website]
+
+---
 <!--
 ---
 - [<img alt="cwork" src="https://img.shields.io/static/v1?label=&message=Im%20currently%20working%20on%20a%20PHP%20Project!&color=191919&style=for-the-badge" />][website]
