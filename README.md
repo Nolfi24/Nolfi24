@@ -1,11 +1,11 @@
 <!--
 [<img align="center" alt="banner" src="github-banner.png" />][website]
 -->
+<p>
+  <img align="right" src="https://komarev.com/ghpvc/?username=Nolfi24&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
+</p>
 
-<h1 align="center">Hi there 👋</h1>
-<img align="right" alt="Profile views" src="https://komarev.com/ghpvc/?username=Nolfi24&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
-
-[<img align="center" alt="Discord" src="https://lanyard-profile-readme.vercel.app/api/299218114879422465" />][website]
+### Hi there 👋
 
 ---
 <!--
@@ -73,6 +73,9 @@
 [<img align="left" width="60%" alt="nolfi.dev" src="https://github-readme-stats.vercel.app/api?username=nolfi24&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&hide_title=true&rank_icon=github&text_color=ADBAC7" />][website]
 [<img align="right" width="35%" alt="nolfi.dev" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nolfi24&theme=transparent&hide_border=true&layout=compact&title_color=ADBAC7" />][website]
 
+---
+### Discord Status:
+[<img align="center" alt="Discord" src="https://lanyard-profile-readme.vercel.app/api/299218114879422465" />][website]
 
 [website]: https://nolfi.dev
 [github]: https://github.com/nolfi24
