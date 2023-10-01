@@ -1,9 +1,11 @@
 <!--
 [<img align="center" alt="banner" src="github-banner.png" />][website]
 -->
-<h1 align="center">Hi there 👋</h1>
 
-[<img alt="Profile views" src="https://komarev.com/ghpvc/?username=Nolfi24&label=Profile%20views&color=0e75b6&style=for-the-badge" />][website]
+<h1 align="center">Hi there 👋</h1>
+<img align="right" alt="Profile views" src="https://komarev.com/ghpvc/?username=Nolfi24&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
+
+[<img align="center" alt="Discord" src="https://lanyard-profile-readme.vercel.app/api/299218114879422465" />][website]
 
 ---
 <!--
